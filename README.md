@@ -34,3 +34,7 @@ Example:
 ```bash
 node exercise1.js
 ```
+
+## Example of 2D array
+
+![2D board](./2Dboard.png)
